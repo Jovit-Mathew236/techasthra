@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/techasthra/static/css/main.3a3647cb.css",
+    "main.js": "/techasthra/static/js/main.2dc3b813.js",
+    "static/media/emergebg.jpg": "/techasthra/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/techasthra/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/techasthra/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/techasthra/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
+    "index.html": "/techasthra/index.html",
+    "main.3a3647cb.css.map": "/techasthra/static/css/main.3a3647cb.css.map",
+    "main.2dc3b813.js.map": "/techasthra/static/js/main.2dc3b813.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a3647cb.css",
+    "static/js/main.2dc3b813.js"
+  ]
+}
